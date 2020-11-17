@@ -1,0 +1,10 @@
+{
+  "name": "coach-finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tom Brown <tombrown654321@protonmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
